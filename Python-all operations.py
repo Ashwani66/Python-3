@@ -33,7 +33,7 @@ print(12.5%2)
 print(2**3**2)#2**9(rtl)
 
 name="ashwani"
-name="it's"+name
+name=" Hii it's"+name
 name +="it's"
 print(name)
 
