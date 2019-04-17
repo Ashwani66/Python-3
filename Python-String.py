@@ -14,7 +14,7 @@ used to access elements of the string."""
 a = "Hello, World!"
 print(a[1])
 #Substring. Get the characters from position 2 to position 5 (not included):
-b = "Hello, World!"
+b = "Hello, world!"
 print(b[2:5])
 
 
